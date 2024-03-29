@@ -1,12 +1,14 @@
 # Twetter/X Clone Project
 
-<img src="https://github.com/bitleakash6/Twitter-X_UI/blob/main/twetter.png">
-
----
+[Live Demo](https://akash-x.netlify.app/)
 
 ## Introduction:
 
 Twetter/X Clone Project is a web application that replicates the basic functionalities of the popular social media platform Twitter. This project aims to provide a practical learning experience for developers to understand and implement key features of Twitter's user interface using HTML, CSS, and JavaScript. By building a simplified version of Twitter, developers can enhance their front-end development skills and gain insights into user interface design principles.
+
+---
+
+<img src="https://github.com/bitleakash6/Twitter-X_UI/blob/main/twetter.png">
 
 ---
 
