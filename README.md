@@ -1,6 +1,7 @@
 # Twetter/X Clone Project
 
-<img src="">
+<img src="https://github.com/bitleakash6/Twitter-X_UI/blob/main/twetter.png">
+
 ---
 
 ## Introduction:
